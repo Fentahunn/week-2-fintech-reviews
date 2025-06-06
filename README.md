@@ -1,1 +1,4 @@
-# week-2-fintech-reviews
+**pycache**/
+_.pyc
+.env
+data/_.csv
