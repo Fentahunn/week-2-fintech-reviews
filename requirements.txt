@@ -1,0 +1,3 @@
+google-play-scraper
+pandas
+python-dotenv      # if you want to manage any environment variables
